@@ -1,4 +1,4 @@
-# USCompany-Sales-Analysis-Tablau
+# USCompany-Sales-Analysis-Tableau
 Sales Analysis and Insights using Tableau for US company
 <img width="2879" height="1698" alt="Screenshot 2026-11-09 110621" src="https://github.com/user-attachments/assets/f241c721-87c7-45dd-8e10-6b35edd206f4" />
 
